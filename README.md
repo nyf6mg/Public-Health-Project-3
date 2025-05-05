@@ -1,0 +1,1 @@
+For personal reasons, my .json files were not included since they contain data that I do not wish to share. Included are all of the used python scripts, as well as the weekly counts for each of the data sources.
